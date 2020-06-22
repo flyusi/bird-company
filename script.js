@@ -5,4 +5,6 @@ function res(){
 
 res();
 
-$( window ).resize(res());
+$( window ).resize(function() {
+	res();
+});
