@@ -6,3 +6,5 @@ function res(){
 $( window ).resize(function() {
 	res();
 });
+
+$('.carousel').carousel()

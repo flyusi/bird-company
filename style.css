@@ -25,6 +25,11 @@ body {
     object-fit: cover;
 }
 
+h2 {
+    margin: 30px auto;
+    text-align: center;
+}
+
 .dancing {
     font-family: 'Dancing Script', cursive;
 }
@@ -54,4 +59,9 @@ body {
 
 .cyan {
     background-color: violet;
+}
+
+.carousel-item img{
+    height: 70vh;
+    object-fit: cover;
 }
