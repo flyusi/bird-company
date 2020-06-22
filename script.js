@@ -3,4 +3,6 @@ function res(){
 	$('.square').height(width);
 }
 
+res();
+
 $( window ).resize(res());
