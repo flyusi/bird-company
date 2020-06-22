@@ -37,14 +37,11 @@ body {
     text-align: center;
     font-size: 0.7em;
     color: white;
+    margin: 3.5vw 1.5vw;
 }
 
 .square-wrapper i {
     font-size: 2.5vw;
-}
-
-.square-wrapper {
-    margin: 3.5vw 1.5vw;
 }
 
 .square-wrapper a {

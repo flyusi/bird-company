@@ -1,8 +1,6 @@
 function res(){
-   var width = $('.square').width();
-	 $('.square').height(width);
-} res();
+    var width = $('.square').width();
+	$('.square').height(width);
+}
 
-$( window ).resize(function() {
-	res();
-});
+$( window ).resize(res());
