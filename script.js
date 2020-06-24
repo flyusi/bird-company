@@ -7,4 +7,4 @@ $( window ).resize(function() {
 	res();
 });
 
-$('.carousel').carousel()
+$('.carousel').carousel();
